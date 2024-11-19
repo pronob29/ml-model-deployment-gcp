@@ -20,7 +20,5 @@ gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed
 ### Test
 - Test the code with `test/test.py`
 
-### Watch the video tutorial
-- How To Deploy ML Models With Google Cloud Run
-
-[![Alt text](https://img.youtube.com/vi/vieoHqt7pxo/hqdefault.jpg)](https://youtu.be/vieoHqt7pxo)
+### Acknowledgments
+This project is based on the tutorial "How To Deploy ML Models With Google Cloud Run" by Patrick Loeber. The original tutorial can be found on YouTube.
